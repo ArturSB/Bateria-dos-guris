@@ -81,3 +81,8 @@ footer {
 .btn7 {
   background-image: url(./images/tom4.png);
 }
+
+.btnPressed{
+  opacity: 0.5;
+  box-shadow: 10px 10px 1px 5px black;
+}
